@@ -3,6 +3,7 @@
 # Desc: Working with classes and functions.
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
+# EMartin, 2022-Mar-06, Streamlined code by moving logic into functions
 #------------------------------------------#
 
 # -- DATA -- #
